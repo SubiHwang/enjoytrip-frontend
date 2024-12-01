@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'custom-title-font';
+    src: url('../fonts/BMDOHYEON_ttf.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
